@@ -15,4 +15,5 @@ Task 13 Create a symbolic link
 Task 14 Copy HTML files
 Advanced Task 1 Move all files that begin with uppercase to tmp/u directory
 Advanced Task 2 Delete all files that end with the character ~.
-Advanced Task 3 Tree 
+Advanced Task 3 Tree
+Advanced Task 4 Life is a series of commas, not periods 
