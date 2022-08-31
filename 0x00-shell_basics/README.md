@@ -13,4 +13,5 @@ Task 11 Write a script that lists all files (even ones with names beginning with
 Task 12 File type print
 Task 13 Create a symbolic link
 Task 14 Copy HTML files
-Task Move all files that begin with uppercase to tmp/u directory
+Advanced Task 1 Move all files that begin with uppercase to tmp/u directory
+Advanced Task 2 Delete all files that end with the character ~.
