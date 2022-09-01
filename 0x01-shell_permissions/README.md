@@ -7,3 +7,4 @@ Task 6 Multiple permissions script.
 Task 7 Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 Task 8 James Bond
 Task 9 John Doe
+Task 10 Look In the mirror
