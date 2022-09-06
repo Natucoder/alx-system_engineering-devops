@@ -6,4 +6,4 @@ Task 4 Create a script that lists environment variables.
 Task 5 Create a script that lists all local variables and environment variables, and functions.
 Task 6 Create a script that creates a new local variable.
 Task 7 Create a script that creates a new global variable Name Best Value School.
-
+Task 8 Every addition to true knowledge is an addition to human power
