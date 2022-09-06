@@ -11,3 +11,4 @@ Task 9 Write a script that prints the result of POWER divided by DIVIDE, followe
 Task 10 Write a script that displays the result of BREATH to the power LOVE
 Task 11 There are 10 types of people in the world -- Those who understand binary, and those who don't
 Task 12 Create a script that prints all possible combinations of two letters, except oo.
+Task 13 Write a script that prints a number with two decimal places, followed by a new line.
