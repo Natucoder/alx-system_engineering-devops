@@ -8,3 +8,4 @@ Task 6 Create a script that creates a new local variable.
 Task 7 Create a script that creates a new global variable Name Best Value School.
 Task 8 Every addition to true knowledge is an addition to human power
 Task 9 Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+Task 10 Write a script that displays the result of BREATH to the power LOVE
